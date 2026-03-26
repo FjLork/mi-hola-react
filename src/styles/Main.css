@@ -1,0 +1,29 @@
+.main-layout {
+  display: flex;
+  min-height: 70vh;
+  width: 100%;
+}
+
+.menu-container {
+  min-width: 180px;
+  max-width: 500px;
+  height: 100%;
+  overflow: auto;
+}
+
+.content-container {
+  flex: 1;
+  min-width: 0;
+  overflow: auto;
+}
+
+.resizer {
+  width: 6px;
+  cursor: col-resize;
+  background-color: #d1d5db;
+  transition: background-color 0.2s;
+}
+
+.resizer:hover {
+  background-color: #9ca3af;
+}

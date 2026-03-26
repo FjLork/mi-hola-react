@@ -1,0 +1,16 @@
+.app-header {
+      display: flex;
+  background-color: #1f2937;
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.menu-button {
+  background: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
