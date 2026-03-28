@@ -1,6 +1,6 @@
 src/
-  components/      → JSX (UI)
-  styles/          → CSS
-  hooks/           → JS (lógica React)
-  services/        → JS (datos)
-  utils/           → JS (helpers)
+  components/      → JSX (UI)               -> Dynpro
+  styles/          → CSS                    -> Estilos
+  hooks/           → JS (lógica React)      -> 
+  services/        → JS (datos)             ->
+  utils/           → JS (helpers)           ->

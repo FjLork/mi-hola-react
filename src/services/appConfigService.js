@@ -3,5 +3,5 @@ export function getAppTitle() {
 }
 
 export function getFooterText() {
-  return "© 2026 Mi app"
+  return "© 2026 Mi app 12"
 }
